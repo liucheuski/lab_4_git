@@ -260,9 +260,8 @@ public class Lab4GitApplication {
 
     public void fetchAllStudent() {
         action.fetchAll();
-        System.out.println("Some changes " +
-                "" +
-                "4");
+        System.out.println("Resolving conflicts");
+
     }
 
 }
