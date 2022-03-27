@@ -260,6 +260,7 @@ public class Lab4GitApplication {
 
     public void fetchAllStudent() {
         action.fetchAll();
+        System.out.println("Some changes");
     }
 
 }
