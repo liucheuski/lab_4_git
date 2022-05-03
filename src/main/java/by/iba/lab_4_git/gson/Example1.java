@@ -50,6 +50,7 @@ public class Example1 {
         staff.setSalary(salary);
         staff.setSkills(Arrays.asList("java", "python", "node", "kotlin"));
         return staff;
+
     }
 
 }
